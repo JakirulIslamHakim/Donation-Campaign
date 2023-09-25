@@ -1,0 +1,11 @@
+.bnr {
+    background-image: url(https://i.ibb.co/tPz3tK9/Rectangle-4281.png?fbclid=IwAR1D02pYwOrDFATU7bddAyiLXB3rJ-LgHzc8PvWXYS4DNbOAveXbJnLBblw);
+    height: 600px;
+    opacity: 0.2;
+    z-index: -20;
+}
+
+.bg-img{
+    background-image:url(https://i.ibb.co/tPz3tK9/Rectangle-4281.png?fbclid=IwAR1D02pYwOrDFATU7bddAyiLXB3rJ-LgHzc8PvWXYS4DNbOAveXbJnLBblw) ;
+    opacity: 0.2;
+}
