@@ -25,7 +25,7 @@ const SelectedDonation = () => {
                 }
             </div>
             <div className={`text-center my-5 ${showAll === selectedDonations.length && 'hidden'}`}>
-                <button onClick={() => setShowAll(selectedDonations.length)} className='btn justify-center'>show all</button>
+                <button onClick={() => setShowAll(selectedDonations.length)} className='btn justify-center bg-[#009444] hover:bg-[#009444] '>show all</button>
             </div>
         </div>
     );

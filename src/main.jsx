@@ -11,30 +11,33 @@ import Statastics from './Components/Statistics/Statastics.jsx';
 import Home from './Components/Home/Home.jsx';
 import DonationsDetails from './Components/DonationsDetails/DonationsDetails.jsx';
 import SelectedDonation from './Components/SelectedDonation/SelectedDonation.jsx';
+import Error from './Components/Error.jsx/Error.jsx';
 
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
-    children:[
+    errorElement:<Error></Error>,
+    children: [
       {
-        path:'/',
-        element:<Home></Home>
+        path: '/',
+        element: <Home></Home>
       },
       {
-        path:"/donation",
-        element:<SelectedDonation></SelectedDonation>,
-        loader:()=>fetch('../fake.json')
+        path: "/donation",
+        element: <SelectedDonation></SelectedDonation>,
+        loader: () => fetch('../fake.json')
       },
       {
-        path:"/statistics",
-        element:<Statastics></Statastics>
+        path: "/statistics",
+        element: <Statastics></Statastics>,
+        loader: () => fetch('../fake.json')
       },
       {
-        path:'/donations/:id',
-        element:<DonationsDetails></DonationsDetails>,
-        loader:()=>fetch('../fake.json')
+        path: '/donations/:id',
+        element: <DonationsDetails></DonationsDetails>,
+        loader: () => fetch('../fake.json')
       }
     ]
   },

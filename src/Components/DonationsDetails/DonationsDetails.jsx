@@ -1,6 +1,8 @@
 import React from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import { savedDonation } from '../ulility/localStorege';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const DonationsDetails = () => {
     const AllCategoryJobs = useLoaderData();
@@ -9,12 +11,12 @@ const DonationsDetails = () => {
 
     const selectedJobs = AllCategoryJobs.find(job => job.id === idInt);
 
-    const { donation_img, description, price, text_color, title } = selectedJobs;
+    const { donation_img, description, price, text_color, title, } = selectedJobs;
     // console.log(text_color)
 
     const handleAddDonation = () => {
-            savedDonation(idInt);
-            alert('added successfully')
+        savedDonation(idInt);
+        toast('Successfully donate')
     }
 
     return (
@@ -31,6 +33,7 @@ const DonationsDetails = () => {
                 <h4 className='text-5xl font-bold'>{title}</h4>
                 <p className='mt-6 text-justify'>{description}</p>
             </div>
+            <ToastContainer></ToastContainer>
         </div>
     );
 };
