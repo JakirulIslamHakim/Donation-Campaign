@@ -1,14 +1,11 @@
-import React from 'react';
-import NavBar from '../NavBar/NavBar';
-import Banner from '../Banner/Banner';
 import Banner2 from '../Banner/Banner2';
+import Donations from '../Donations/Donations';
 
 const Home = () => {
     return (
         <div>
-            <NavBar></NavBar>
-            {/* <Banner></Banner> */}
             <Banner2></Banner2>
+            <Donations></Donations>
         </div>
     );
 };

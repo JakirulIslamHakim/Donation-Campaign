@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "donation_img": "https://i.ibb.co/smHXdhM/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Millions of children around the world lack access to clean and safe drinking water. With your support, we aim to make a difference in their lives by providing clean water for children in need. Access to clean water is a basic human right, and it's a crucial factor in preventing waterborne diseases, improving overall health, and allowing children to thrive. Your donation will go towards building sustainable water sources, such as wells and water purification systems, in underserved communities. Together, we can ensure that every child has the opportunity to grow up healthy and happy, free from the burden of waterborne illnesses. Join us in this vital mission to provide clean water for a brighter future for children worldwide.",
+        "price": 50
+    },
+    {
+        "id": 2,
+        "donation_img": "https://i.ibb.co/bKvRXYV/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "Access to quality education is a fundamental right that every child deserves. Your support can make a significant impact on the lives of underprivileged students by ensuring they receive a good education. By contributing to this campaign, you empower these young minds to reach their full potential and break the cycle of poverty. Your donation will go towards scholarships, educational materials, teacher training programs, and the construction of new classrooms to create a nurturing learning environment. We believe that education is the key to a brighter future, and with your help, we can unlock that future for countless children who dream of a better life through knowledge. Join us in our mission to provide good education and brighter futures for the next generation, and together, we can change lives one classroom at a time.",
+        "price": 25
+    },
+    {
+        "id": 3,
+        "donation_img": "https://i.ibb.co/b5wMys5/Food.png",
+        "title": "Better food for everyone",
+        "category": "Food",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "description": "Access to nutritious and wholesome food should be a universal right. Unfortunately, many communities still struggle with food insecurity. Your contribution to this campaign can make a significant impact in ensuring better food for everyone. Your donation will support food banks, community kitchens, and sustainable agriculture initiatives, all aimed at providing nutritious meals to those in need. We believe that no one should go to bed hungry, and with your help, we can work towards a world where everyone has access to an abundance of healthy food. Join us in our mission to fight hunger and ensure better food security for individuals and families in our communities.",
+        "price": 10
+    },
+    {
+        "id": 4,
+        "donation_img": "https://i.ibb.co/4d9bqR0/Clothing.png",
+        "title": "Used clothing drive",
+        "category": "Clothing",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Many individuals and families struggle to afford basic clothing, especially in challenging economic circumstances. Your support for this campaign can make a real difference in the lives of those in need. By donating to the used clothing drive, you contribute to collecting and distributing gently used clothing to those who lack adequate apparel. Your donation helps provide warmth, comfort, and dignity to individuals and families facing challenging times. Together, we can ensure that no one goes without proper clothing. Join us in our mission to gather and share the gift of clothing with those who need it most.",
+        "price": 35
+    },
+    {
+        "id": 5,
+        "donation_img": "https://i.ibb.co/smHXdhM/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Millions of children around the world lack access to clean and safe drinking water. With your support, we aim to make a difference in their lives by providing clean water for children in need. Access to clean water is a basic human right, and it's a crucial factor in preventing waterborne diseases, improving overall health, and allowing children to thrive. Your donation will go towards building sustainable water sources, such as wells and water purification systems, in underserved communities. Together, we can ensure that every child has the opportunity to grow up healthy and happy, free from the burden of waterborne illnesses. Join us in this vital mission to provide clean water for a brighter future for children worldwide.",
+        "price": 50
+    },
+    {
+        "id": 6,
+        "donation_img": "https://i.ibb.co/bKvRXYV/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "Access to quality education is a fundamental right that every child deserves. Your support can make a significant impact on the lives of underprivileged students by ensuring they receive a good education. By contributing to this campaign, you empower these young minds to reach their full potential and break the cycle of poverty. Your donation will go towards scholarships, educational materials, teacher training programs, and the construction of new classrooms to create a nurturing learning environment. We believe that education is the key to a brighter future, and with your help, we can unlock that future for countless children who dream of a better life through knowledge. Join us in our mission to provide good education and brighter futures for the next generation, and together, we can change lives one classroom at a time.",
+        "price": 25
+    },
+    {
+        "id": 7,
+        "donation_img": "https://i.ibb.co/b5wMys5/Food.png",
+        "title": "Better food for everyone",
+        "category": "Food",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "description": "Access to nutritious and wholesome food should be a universal right. Unfortunately, many communities still struggle with food insecurity. Your contribution to this campaign can make a significant impact in ensuring better food for everyone. Your donation will support food banks, community kitchens, and sustainable agriculture initiatives, all aimed at providing nutritious meals to those in need. We believe that no one should go to bed hungry, and with your help, we can work towards a world where everyone has access to an abundance of healthy food. Join us in our mission to fight hunger and ensure better food security for individuals and families in our communities.",
+        "price": 10
+    },
+    {
+        "id": 8,
+        "donation_img": "https://i.ibb.co/4d9bqR0/Clothing.png",
+        "title": "Used clothing drive",
+        "category": "Clothing",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Many individuals and families struggle to afford basic clothing, especially in challenging economic circumstances. Your support for this campaign can make a real difference in the lives of those in need. By donating to the used clothing drive, you contribute to collecting and distributing gently used clothing to those who lack adequate apparel. Your donation helps provide warmth, comfort, and dignity to individuals and families facing challenging times. Together, we can ensure that no one goes without proper clothing. Join us in our mission to gather and share the gift of clothing with those who need it most.",
+        "price": 35
+    },
+    {
+        "id": 9,
+        "donation_img": "https://i.ibb.co/b5wMys5/Food.png",
+        "title": "Better food for everyone",
+        "category": "Food",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "description": "Access to nutritious and wholesome food should be a universal right. Unfortunately, many communities still struggle with food insecurity. Your contribution to this campaign can make a significant impact in ensuring better food for everyone. Your donation will support food banks, community kitchens, and sustainable agriculture initiatives, all aimed at providing nutritious meals to those in need. We believe that no one should go to bed hungry, and with your help, we can work towards a world where everyone has access to an abundance of healthy food. Join us in our mission to fight hunger and ensure better food security for individuals and families in our communities.",
+        "price": 10
+    },
+    {
+        "id": 10,
+        "donation_img": "https://i.ibb.co/4d9bqR0/Clothing.png",
+        "title": "Used clothing drive",
+        "category": "Clothing",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Many individuals and families struggle to afford basic clothing, especially in challenging economic circumstances. Your support for this campaign can make a real difference in the lives of those in need. By donating to the used clothing drive, you contribute to collecting and distributing gently used clothing to those who lack adequate apparel. Your donation helps provide warmth, comfort, and dignity to individuals and families facing challenging times. Together, we can ensure that no one goes without proper clothing. Join us in our mission to gather and share the gift of clothing with those who need it most.",
+        "price": 35
+    },
+    {
+        "id": 11,
+        "donation_img": "https://i.ibb.co/smHXdhM/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Millions of children around the world lack access to clean and safe drinking water. With your support, we aim to make a difference in their lives by providing clean water for children in need. Access to clean water is a basic human right, and it's a crucial factor in preventing waterborne diseases, improving overall health, and allowing children to thrive. Your donation will go towards building sustainable water sources, such as wells and water purification systems, in underserved communities. Together, we can ensure that every child has the opportunity to grow up healthy and happy, free from the burden of waterborne illnesses. Join us in this vital mission to provide clean water for a brighter future for children worldwide.",
+        "price": 50
+    },
+    {
+        "id": 12,
+        "donation_img": "https://i.ibb.co/bKvRXYV/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "Access to quality education is a fundamental right that every child deserves. Your support can make a significant impact on the lives of underprivileged students by ensuring they receive a good education. By contributing to this campaign, you empower these young minds to reach their full potential and break the cycle of poverty. Your donation will go towards scholarships, educational materials, teacher training programs, and the construction of new classrooms to create a nurturing learning environment. We believe that education is the key to a brighter future, and with your help, we can unlock that future for countless children who dream of a better life through knowledge. Join us in our mission to provide good education and brighter futures for the next generation, and together, we can change lives one classroom at a time.",
+        "price": 25
+    }
+]
