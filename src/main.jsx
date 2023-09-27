@@ -7,9 +7,10 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Root from './Components/Root/Root.jsx';
-import AddDonation from './Components/AddDontaion/AddDonation.jsx';
 import Statastics from './Components/Statistics/Statastics.jsx';
 import Home from './Components/Home/Home.jsx';
+import DonationsDetails from './Components/DonationsDetails/DonationsDetails.jsx';
+import SelectedDonation from './Components/SelectedDonation/SelectedDonation.jsx';
 
 
 const router = createBrowserRouter([
@@ -23,11 +24,17 @@ const router = createBrowserRouter([
       },
       {
         path:"/donation",
-        element:<AddDonation></AddDonation>
+        element:<SelectedDonation></SelectedDonation>,
+        loader:()=>fetch('../fake.json')
       },
       {
         path:"/statistics",
         element:<Statastics></Statastics>
+      },
+      {
+        path:'/donations/:id',
+        element:<DonationsDetails></DonationsDetails>,
+        loader:()=>fetch('../fake.json')
       }
     ]
   },

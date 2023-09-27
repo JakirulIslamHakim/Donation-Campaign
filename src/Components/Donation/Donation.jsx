@@ -7,13 +7,13 @@ const Donation = ({ donation }) => {
     // console.log(donation)
     const { category, donation_img, title, id } = donation;
     const [addDonaton,setAddDonation] =useState([]);
-    console.log(addDonaton);
+    // console.log(addDonaton);
 
     const handleAddDonation =(donation)=>{
         setAddDonation([...addDonaton,donation]);
     }
     return (
-        <Link >
+        <Link to={`/donations/${id}`}>
             <div onClick={()=>handleAddDonation(donation)} className='border-4'>
                 <div>
                     <img className='w-full' src={donation_img} alt="" />
